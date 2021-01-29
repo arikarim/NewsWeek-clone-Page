@@ -13,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://ryelbanfield.github.io/Newsweek-Clone/)
+[Live Demo Link]( https://arikarim.github.io/NewsWeek-clone-Page/)
 
 ## Authors
 
